@@ -1,7 +1,7 @@
 # نصب بسته‌های محلی
-./background_remove/transparent-background/
-./background_remove/image-upscale/
-./background_remove/faceorienter/
+#./background_remove/transparent-background/
+#./background_remove/image-upscale/
+#./background_remove/faceorienter/
 
 # نصب بسته از PyPI
 retina-face
