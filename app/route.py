@@ -1,7 +1,7 @@
 # app/route.py
 
-from fastapi import APIRouter, File, UploadFile, HTTPException, Form# type: ignore
-from fastapi.responses import FileResponse# type: ignore
+from fastapi import APIRouter, File, UploadFile, HTTPException, Form
+from fastapi.responses import FileResponse
 from handlers import *  # فرض می‌کنیم که اینجا منطق پردازش تصویر وجود دارد
 
 router = APIRouter()

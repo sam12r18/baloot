@@ -2,7 +2,7 @@ import cv2
 from PIL import Image
 from transparent_background import Remover
 import torch
-from RealESRGAN import RealESRGAN
+# from RealESRGAN import RealESRGAN
 from PIL import ImageDraw, ImageOps
 import dlib
 import numpy as np
